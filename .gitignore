@@ -1,6 +1,8 @@
-*.py[co]
+target/
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
 *.sw[po]
-_trial_temp
-build
-dist
-*.egg-info
+*.py[co]

@@ -4,7 +4,12 @@ version = "0.6.0"
 edition = "2021"
 authors = ["Andrew Collins <AtomBoy@SWCP.com>"]
 license = "BSD-3-Clause"
-description = "A Rust implementation of the metaphone and double metaphone algorithms."
+description = "A fast, safe, and idiomatic Rust implementation of the metaphone and double metaphone algorithms."
+readme = "README.md"
+repository = "https://github.com/oubiwann/metaphone"
+documentation = "https://docs.rs/metaphone"
+keywords = ["metaphone", "double-metaphone", "phonetic", "soundex", "text-search"]
+categories = ["text-processing", "algorithms"]
 
 [dependencies]
 unicode-normalization = "0.1"
