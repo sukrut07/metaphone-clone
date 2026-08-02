@@ -1,0 +1,11 @@
+[package]
+name = "metaphone"
+version = "0.6.0"
+edition = "2021"
+authors = ["Andrew Collins <AtomBoy@SWCP.com>"]
+license = "BSD-3-Clause"
+description = "A Rust implementation of the metaphone and double metaphone algorithms."
+
+[dependencies]
+unicode-normalization = "0.1"
+unicode_categories = "0.1"
