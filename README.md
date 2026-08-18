@@ -209,7 +209,7 @@ This Rust library maintains 100% behavioral parity with the reference Python [me
 
 ## Development
 
-To set up your development environment and verify changes:
+To set up your development environment and verify changes steps are being mentioned here accordingly:
 
 ```bash
 # Clone repository
@@ -231,7 +231,7 @@ cargo clippy --all-targets --all-features -- -D warnings
 
 ---
 
-## License
+## License#2
 
 This project is licensed under the **BSD-3-Clause License** - matching the original license of the Python repository.
 These are subjected to changes wrt the authoritative policies.
