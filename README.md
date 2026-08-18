@@ -234,6 +234,7 @@ cargo clippy --all-targets --all-features -- -D warnings
 ## License
 
 This project is licensed under the **BSD-3-Clause License** - matching the original license of the Python repository.
+These are subjected to changes wrt the authoritative policies.
 
 ---
 
